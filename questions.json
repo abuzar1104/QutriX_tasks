@@ -1,0 +1,104 @@
+[
+  {
+    "question": "In Python, which keyword is used to define a function?",
+    "options": [
+      "A. function",
+      "B. def",
+      "C. func",
+      "D. define"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What does SQL stand for?",
+    "options": [
+      "A. Strong Question Language",
+      "B. Structured Query Language",
+      "C. Simple Query Language",
+      "D. Structured Question Logic"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "Which data structure uses a Last-In, First-Out (LIFO) approach?",
+    "options": [
+      "A. Queue",
+      "B. Array",
+      "C. Linked List",
+      "D. Stack"
+    ],
+    "answer": "D"
+  },
+  {
+    "question": "What is the file extension for a Python script?",
+    "options": [
+      "A. .pyt",
+      "B. .pt",
+      "C. .py",
+      "D. .px"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which command is used to select all columns from a database table named 'students'?",
+    "options": [
+      "A. SELECT * FROM students",
+      "B. GET * FROM students",
+      "C. SELECT all FROM students",
+      "D. FETCH * FROM students"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "Which of these is a Python data type?",
+    "options": [
+      "A. number",
+      "B. string",
+      "C. double",
+      "D. char"
+    ],
+    "answer": "B"
+  },
+  {
+    "question": "What does 'HTTP' stand for?",
+    "options": [
+      "A. HyperText Transfer Protocol",
+      "B. HighText Transfer Protocol",
+      "C. HyperText Transit Protocol",
+      "D. HyperText Type Protocol"
+    ],
+    "answer": "A"
+  },
+  {
+    "question": "What is the output of `2 ** 3` in Python?",
+    "options": [
+      "A. 5",
+      "B. 6",
+      "C. 8",
+      "D. 9"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which symbol creates a single-line comment in Python?",
+    "options": [
+      "A. //",
+      "B. /*",
+      "C. #",
+      "D. --"
+    ],
+    "answer": "C"
+  },
+  {
+    "question": "Which SQL clause is used to filter results?",
+    "options": [
+      "A. FILTER BY",
+      "B. WHERE",
+      "C. SELECT",
+      "D. GROUP"
+    ],
+    "answer": "B"
+  }
+
+
+]
